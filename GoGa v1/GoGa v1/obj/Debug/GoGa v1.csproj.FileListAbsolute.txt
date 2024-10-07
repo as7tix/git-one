@@ -1,0 +1,20 @@
+C:\Users\Student\source\repos\GoGa v1\GoGa v1\bin\Debug\GoGa v1.exe.config
+C:\Users\Student\source\repos\GoGa v1\GoGa v1\bin\Debug\GoGa v1.exe
+C:\Users\Student\source\repos\GoGa v1\GoGa v1\bin\Debug\GoGa v1.pdb
+C:\Users\Student\source\repos\GoGa v1\GoGa v1\obj\Debug\GoGa v1.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\GoGa v1\GoGa v1\obj\Debug\GoGa_v1.Form1.resources
+C:\Users\Student\source\repos\GoGa v1\GoGa v1\obj\Debug\GoGa_v1.Properties.Resources.resources
+C:\Users\Student\source\repos\GoGa v1\GoGa v1\obj\Debug\GoGa v1.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\GoGa v1\GoGa v1\obj\Debug\GoGa v1.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\GoGa v1\GoGa v1\obj\Debug\GoGa v1.exe
+C:\Users\Student\source\repos\GoGa v1\GoGa v1\obj\Debug\GoGa v1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\коротовских\gitnub\первое задание\GoGa v1\GoGa v1\bin\Debug\GoGa v1.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\коротовских\gitnub\первое задание\GoGa v1\GoGa v1\bin\Debug\GoGa v1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\коротовских\gitnub\первое задание\GoGa v1\GoGa v1\bin\Debug\GoGa v1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\коротовских\gitnub\первое задание\GoGa v1\GoGa v1\obj\Debug\GoGa v1.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\коротовских\gitnub\первое задание\GoGa v1\GoGa v1\obj\Debug\GoGa_v1.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\коротовских\gitnub\первое задание\GoGa v1\GoGa v1\obj\Debug\GoGa_v1.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\коротовских\gitnub\первое задание\GoGa v1\GoGa v1\obj\Debug\GoGa v1.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\коротовских\gitnub\первое задание\GoGa v1\GoGa v1\obj\Debug\GoGa v1.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\коротовских\gitnub\первое задание\GoGa v1\GoGa v1\obj\Debug\GoGa v1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.01\коротовских\gitnub\первое задание\GoGa v1\GoGa v1\obj\Debug\GoGa v1.pdb
